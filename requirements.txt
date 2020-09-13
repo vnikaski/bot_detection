@@ -1,0 +1,14 @@
+pandas
+numpy
+spacy.lang.en
+xml.etree.ElementTree
+spacy
+re
+nltk
+torch
+torch.utils.data
+torch.nn.functional
+torch.nn
+tqdm
+torch.optim
+pylab
